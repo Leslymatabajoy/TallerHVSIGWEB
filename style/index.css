@@ -417,11 +417,11 @@ header h1 {
   flex-direction: row;
   align-items: stretch;
   overflow: hidden;
-  min-width: 800px;
+  min-width: 700px;
   max-width: 900px;
   width: calc(100% - 100px);
   height: 400px;
-  width: 2000px;
+  width: 600px;
 }
 @media screen and (max-width: 718px) {
   .places_panel .options {
@@ -569,4 +569,5 @@ header h1 {
   transition-delay: 0.1s;
 }
 
+/**/
 
